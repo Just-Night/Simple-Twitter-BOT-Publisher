@@ -1,0 +1,7 @@
+# API
+fastapi==0.96.0
+uvicorn==0.22.0
+
+# BOT
+tweepy==4.14.0
+pydantic==4.6.3
